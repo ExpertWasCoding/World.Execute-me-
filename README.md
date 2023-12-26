@@ -1,2 +1,4 @@
 #README
-just change the directory in objects.py and enjoy 
+-Do `pip install -r requirements.txt` to install the libraries required
+-change the directory in objects.py
+-enjoy
