@@ -1,0 +1,6 @@
+# requirements.txt
+os==0.1.6
+sys==3.9.5
+pygame==2.0.1
+tqdm==4.62.3
+
