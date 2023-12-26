@@ -7,7 +7,7 @@ import random
 from tqdm import tqdm
 def play_audio():
     pygame.mixer.init()
-    pygame.mixer.music.load("/home/expert/fun/world.execute/worldExecute.mp3")
+    pygame.mixer.music.load("path/to/worldExecute.mp3")
     pygame.mixer.music.play()
 
 def clear_terminal():
